@@ -1,11 +1,9 @@
 import React from 'react'
 
-const page = () => {
+export default function DotNet() {
   return (
     <div>
-      
+      .NET Development
     </div>
   )
 }
-
-export default page

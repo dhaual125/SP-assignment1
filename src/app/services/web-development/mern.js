@@ -1,11 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const mern = () => {
   return (
     <div>
-      
+      mern
     </div>
   )
 }
 
-export default page
+export default mern

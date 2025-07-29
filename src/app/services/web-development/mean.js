@@ -1,11 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const mean = () => {
   return (
     <div>
-      
+      mean
     </div>
   )
 }
 
-export default page
+export default mean

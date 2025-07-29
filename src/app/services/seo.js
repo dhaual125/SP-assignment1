@@ -1,11 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const seo = () => {
   return (
-    <div>
+    <div>seo
       
     </div>
   )
 }
 
-export default page
+export default seo
